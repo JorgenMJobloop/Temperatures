@@ -1,0 +1,21 @@
+{
+    "language": "C#",
+    "description": "C# (uttales 'C sharp') er et moderne, objektorientert programmeringsspråk utviklet av Microsoft. Det brukes hovedsakelig til å bygge programvare som kjører på .NET-plattformen.",
+    "features": [
+        "Støtte for objektorientert programmering",
+        "Sterk typet språk",
+        "Integrasjon med .NET-rammeverket",
+        "Automatisk minnehåndtering (garbage collection)",
+        "LINQ for spørringer i datastrukturer"
+    ],
+    "common_use_cases": [
+        "Webapplikasjoner (ASP.NET)",
+        "Desktop-applikasjoner (Windows Forms, WPF)",
+        "Mobilapplikasjoner (Xamarin, .NET MAUI)",
+        "Spillutvikling (Unity)",
+        "Skybaserte løsninger (Azure)"
+    ],
+    "developed_by": "Microsoft",
+    "first_appeared": 2000,
+    "current_version": "12.0"
+}
