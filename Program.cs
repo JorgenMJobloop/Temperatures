@@ -18,5 +18,7 @@ class Program
 
         temperatureConverter.ConvertToCelsius(f);
 
+        Console.WriteLine("Enter a celsius or fahrenheit degree:");
+
     }
 }
